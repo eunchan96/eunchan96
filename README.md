@@ -49,7 +49,7 @@ PO · 상품 도메인 백엔드 · Elasticsearch 검색 개선 (P99 3073ms → 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
-**_📒 프로젝트별 기획서 · 기능 정의 · 상세 내용은 [노션 포트폴리오](https://app.notion.com/p/PORTFOLIO-3e82abdfa9e980b48a06d1bc551ee947)에 정리해 두었어요._**
+**_📒 프로젝트별 기획서 · 기능 정의 · 상세 내용은 [노션 포트폴리오](https://app.notion.com/p/PORTFOLIO-3e86c5120ba98084abcdf54923258b02)에 정리해 두었어요._**
 
 ---
 
@@ -107,6 +107,6 @@ PO · 상품 도메인 백엔드 · Elasticsearch 검색 개선 (P99 3073ms → 
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:taegwon02@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/eunchan96)
-[![Notion](https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/PORTFOLIO-3e82abdfa9e980b48a06d1bc551ee947)
+[![Notion](https://img.shields.io/badge/Notion_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://app.notion.com/p/PORTFOLIO-3e86c5120ba98084abcdf54923258b02)
 
 </div>
